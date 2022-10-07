@@ -6,8 +6,22 @@ td {
 .alive{
     background-color: black;
 }
-#launch{
-    height: 1000px;
-    width: 3000px;
-    font-size: 300px;
+#launch {
+
 }
+
+
+/*.menu{*/
+/*    width : 50%;*/
+/*}*/
+/*.menu .menu_button{*/
+/*    margin : 0;*/
+/*    float: right;*/
+/*    height: 158px;*/
+/*}*/
+
+/*.menu .menu_button{*/
+/*    width : 0px;*/
+/*    cursor : pointer;*/
+/*}*/
+
